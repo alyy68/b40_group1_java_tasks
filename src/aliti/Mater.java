@@ -1,10 +1,7 @@
 package aliti;
 
-public class Boss {
+public class Mater {
     public static void main(String[] args) {
-
-        System.out.println("Yes boss");
-
-
+        System.out.println("Blah blah");
     }
 }
