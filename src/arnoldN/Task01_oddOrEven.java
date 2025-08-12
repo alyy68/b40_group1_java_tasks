@@ -1,6 +1,6 @@
 package arnoldN;
 
-public class Task01OddOrEven {
+public class Task01_oddOrEven {
     public static void main(String[] args) {
         //Write a method which can identifies given number is even or odd
 
