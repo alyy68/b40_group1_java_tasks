@@ -1,6 +1,6 @@
 package AlinaK;
 
-public class Odd_Or_Even_Task {
+public class Task1_OddOrEven {
     public static void main(String[] args) {
         oddOrEven(10);
     }
