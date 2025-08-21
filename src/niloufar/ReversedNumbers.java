@@ -12,7 +12,7 @@ public class ReversedNumbers {
     public static int revNums (int num){
 
         if (num > 0){
-            System.out.println("Number can't be negative");
+            System.out.println("Number can't be positive");
         }
         int a = Math.abs(num);
         int result =0 ;
